@@ -198,7 +198,7 @@ set state values to pass to the next render.
 ```javascript
 import MySoyComponent from './MySoyComponent';
 
-const component = new MySoyComponnet();
+const component = new MySoyComponent();
 
 component.foo = 'foo1';
 
