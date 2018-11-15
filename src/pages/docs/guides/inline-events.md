@@ -69,7 +69,7 @@ That will work exactly the same way as the previous example.
 
 ## [Inline Listeners - Nested Components](#inline_listeners_nested_components)
 
-When using [nested components](/docs/guides/nested-components.html) it's also
+When using nested components it's also
 possible to inline events by using the **events** property:
 
 ```soy
