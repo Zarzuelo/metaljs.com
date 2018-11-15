@@ -23,7 +23,7 @@ need to pass it (or a selector for it) as the `element` property of the
 constructor configuration, like this:
 
 ```javascript
-// Passsing the element itself
+// Passing the element itself
 new Modal({element: elementToReplace});
 
 // Passing a selector to the element
